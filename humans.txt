@@ -1,0 +1,11 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Sergei Borovskii -- engineer -- @fiksuteekkari
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5, Tailwindcss
+    Apache Server Configs, jQuery, Modernizr, Normalize.css
